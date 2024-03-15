@@ -1,4 +1,4 @@
-# Análisis de datos con consultas SQL
+# Análisis de datos con consultas SQL - PostgreSQL
 
 Este proyecto tiene como objetivo realizar análisis de datos directamente desde la fuente de datos utilizando consultas SQL. La base de datos está estructurada para almacenar información específica de importaciones vehiculares. Todo el proceso de modelamiento de datos se realizó en un proyecto anterior compartido en Git, el cual se puede encontrar <a href="https://github.com/jcarlosmamanidelacruz/Postgresq-modelado-y-carga-de-datos" target="_blank"> Postgresq-modelado-y-carga-de-datos </a>.
 
@@ -22,7 +22,7 @@ Este proyecto tiene como objetivo realizar análisis de datos directamente desde
 
 **README.md:** Documento que proporciona una descripción general del proyecto, las preguntas de análisis y la estructura del proyecto.
 
-## Uso del Proyecto:
+## Instrucciones para Configurar y Cargar los Datos
 
 1. Clona este repositorio en tu máquina local.
 2. Abre tu cliente de PostgreSQL o cualquier otro cliente de SQL que prefieras.
@@ -32,7 +32,12 @@ Este proyecto tiene como objetivo realizar análisis de datos directamente desde
 6. Explora los resultados y realiza el análisis correspondiente.
 
 ------------
+## Capturas de Pantalla
+------------
 
-
+## Script SQL - Creación de Tablas
 
 [![create-tables.png](https://i.postimg.cc/mgX2KN3K/create-tables.png)](https://postimg.cc/ts6jx6Mz)
+
+## Modelo Físico OLTP
+[![modelo-fisico-oltp.png](https://i.postimg.cc/DyN17wwF/modelo-fisico-oltp.png)](https://postimg.cc/mtQPwR96)
