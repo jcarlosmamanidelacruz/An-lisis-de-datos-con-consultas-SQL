@@ -15,8 +15,7 @@ Este proyecto tiene como objetivo realizar análisis de datos directamente desde
 
 ## Estructura del Proyecto:
 
-**data/:** Carpeta que contiene el archivo de datos de importaciones vehiculares.<br>
-**sql/:** Carpeta que contiene los archivos SQL.
+**sql/:** Carpeta que contiene los archivos SQL.<br>
 
    - **create_tables.sql:** Script para crear las tablas en la base de datos.
    - **querys.sql:** Script con las consultas para cada pregunta de análisis.
